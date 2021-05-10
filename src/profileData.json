@@ -1,0 +1,76 @@
+{
+    "landing": {
+        "firstName": "Avnish",
+        "lastName": "Singh",
+        "phoneNumber": "+91-9953004302",
+        "bio": "I am a Computer Science undergrad with a strong hold on data structures and algorithms in C and C++. I have also worked with Nodejs for the server side development and React framework for the frontend development. Always on lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative and dynamic in my work that will lead to a learning experience.",
+        "email": "singhavnish516@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/avnish-singh-55a52918b/",
+        "github": "https://github.com/avnishsingh516"
+    },
+    "experience": [
+        {
+            "position": "Web Development Intern",
+            "organization": "The Sparks Foundation",
+            "aboutWork": "Developed Basic Banking System website using HTML, CSS, Javascript. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.",
+            "fromDate": "March 2021",
+            "toDate": "April 2021"
+        }
+        
+    ],
+    "education": [
+        {
+            "university": "Bhagwan Parshuram Institute of Technology",
+            "degree": "Bachelor of Technology in Computer Science",
+            "gpa": "C.G.P.A : 7.3",
+            "fromDate": "2018",
+            "toDate": "- Present",
+            "location" : "Delhi, India"
+        },
+        {
+            "university": "Kendriya Vidalaya Gole Market",
+            "degree": "12th Standard | CBSE ",
+            "gpa": "75%",
+            "fromDate": "2018",
+            "toDate": "",
+            "location" : "Delhi, India"
+        },
+        {
+            "university": "Kendriya Vidalaya Gole Market",
+            "degree": "10th Standard | CBSE ",
+            "gpa": "C.G.P.A : 9.4",
+            "fromDate": "2016",
+            "toDate": "",
+            "location" : "Delhi, India"
+        }  
+    ],
+
+    "skills": [
+        
+    ],
+
+    "interests": {
+        "paragraphOne": "Apart from being a CS graduate, I enjoy most of my time being outdoors. I love traveling and passionate about Soccer.",
+        "paragraphTwo": "When forced indoors, I follow a number of sci-fi movies and documentries and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the consumer tech field like new products and apps via blogs and podcasts."
+    },
+
+    "awards": [
+        {
+            "awardDetail": " Successfully participated in the HACKTOBERFEST 2020 organized by DigitalOcean."
+        },
+        {
+            "awardDetail": "Full-Stack Web Development with React by Coursera"
+        },
+        
+        {
+            "awardDetail": "Ethereum BlockChain Development by Cousera "
+        },
+        {
+            "awardDetail": "Certificate of Achievement in C++ DS Algo by Coding Blocks "
+        }
+        
+        
+           
+    ]
+
+}

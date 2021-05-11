@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://avnishsingh.me/",
+  "homepage": "https://avnishsingh.me/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
@@ -23,6 +23,10 @@
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
+  },
+  "engines" : {
+    "npm": "7.9.0",
+    "node": "11.0.0"
   },
   "eslintConfig": {
     "extends": "react-app"
